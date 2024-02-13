@@ -65,10 +65,12 @@
 
 .words {
   position: absolute;
-  left: 10%;
+  left: 13%;
   width: 80%;
   height: 14%;
   background-color: #fdb7ba;
+  font-size: 20px;
+  padding-left: 20px;
 }
 
 .words.line1 {
@@ -79,6 +81,7 @@
 
 .words.line2 {
   top: 30%;
+  padding-top: 5px;
 }
 
 .words.line3 {
